@@ -236,7 +236,6 @@ li {
 
 #works .card {
   width: 32%;
-  height: 550px;
 }
 
 #works .card {
@@ -245,6 +244,7 @@ li {
 
 #works .card-image {
   display: block;
+  height: 550px;
   margin-bottom: 8px;
 }
 
